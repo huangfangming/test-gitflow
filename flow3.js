@@ -1,0 +1,1 @@
+console.assert(this instanceof Error, 'Expected Error   instanceof  Error');
